@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.14.0...eventindexer-v0.15.0) (2026-01-22)
+
+
+### Features
+
+* **eventindexer:** introduce Shasta inbox for starting block search without beacon RPC dependency ([#21201](https://github.com/taikoxyz/taiko-mono/issues/21201)) ([6aedd4e](https://github.com/taikoxyz/taiko-mono/commit/6aedd4e79026b34f887361cbdde758916ecc7236))
+
 ## [0.14.0](https://github.com/taikoxyz/taiko-mono/compare/eventindexer-v0.13.0...eventindexer-v0.14.0) (2026-01-20)
 
 
